@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "test@mail.ru",
+      "password": "111111",
+      "id": 1
+    },
+    {
+      "email": "zxc@xcz.com",
+      "password": "111111",
+      "id": 2
+    }
+  ],
+  "contacts": [
+    {
+      "firstname": "asd",
+      "lastname": "qwe",
+      "phone": "1231112",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "firstname": "яяя",
+      "lastname": "ффф",
+      "phone": "222",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "firstname": "zzz",
+      "lastname": "xxx",
+      "phone": "111",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "firstname": "ddds",
+      "lastname": "fdfgsg",
+      "phone": "33434",
+      "userId": 1,
+      "id": 6
+    }
+  ]
+}
